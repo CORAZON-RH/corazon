@@ -13,7 +13,7 @@ from OneClick import *
 
 Hunter = Hunter
 
-token = ('6763919459:AAGFnROxEuZq4OsOviqAO_mq-DLts0w3bRA')
+token=('6763919459:AAGFnROxEuZq4OsOviqAO_mq-DLts0w3bRA')
 bot = telebot.TeleBot(token, parse_mode="HTML")
 print('روح على بوتك اضغط [ /start ] ')
 
